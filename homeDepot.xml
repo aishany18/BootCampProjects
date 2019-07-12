@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "test">
+<test name = "piit">
+<parameter name = "search" value = "aim reston tyson"></parameter>
+<classes>
+<class name = "BootCampProjects.TestNG_ScriptHomeDep_2"></class>
+
+</classes>
+ </test>
+</suite>
